@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://music.ikun0014.top/script?key=KAWANG_c6b598c6-C9YTE67TG67N3OP2";
+const API_BASE_URL = "https://music.ikun0014.top";
 const KUWO_HOST_PATTERN = /(^|\.)kuwo\.cn$/i;
 const SAFE_RESPONSE_HEADERS = ["content-type", "cache-control", "accept-ranges", "content-length", "content-range", "etag", "last-modified", "expires"];
 
